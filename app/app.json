@@ -1,8 +1,20 @@
 {
   "expo": {
-    "name": "TouchDiagnostics",
-    "slug": "touch-diagnostics",
+    "name": "screen-touch-checker",
+    "slug": "screen-touch-checker",
+    "owner": "fabianimv",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "bf691b35-395f-4381-a362-59a606507785"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bf691b35-395f-4381-a362-59a606507785"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
